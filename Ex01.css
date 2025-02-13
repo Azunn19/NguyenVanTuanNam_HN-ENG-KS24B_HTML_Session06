@@ -1,0 +1,25 @@
+header{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    padding:6px;
+}
+img{
+    border-radius: 50%;
+    border:2px solid blue;
+}
+table{
+    width:100%;
+    padding:10px;
+}
+.img{
+    width:40%;
+    height:100%;
+    text-align: right
+}
+footer{
+    background-color: rgb(228, 227, 227) ;
+    text-align: center;
+    line-height: 400%;
+    font-size: smaller;
+}
